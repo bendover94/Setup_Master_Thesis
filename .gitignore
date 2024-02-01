@@ -1,0 +1,22 @@
+# Ignore all files
+*/
+*.lof
+*.log
+*.aux
+*.gz
+*.toc
+*.lot
+*.lol
+*.mp4
+*.xml
+*.bcf
+
+# Unignore interesting stuff
+!.gitignore
+
+!PICs
+!Base
+!Literatur.bib
+!twbook.cls
+!Thesis.pdf
+!Thesis.tex
